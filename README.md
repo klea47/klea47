@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 \ is new line
 -->
 
-I'm currently an Industrial Engineering student at the University of Toronto, specializing in Operations Research (OR). I'm passionate about leveraging optimization alongside Machine Learning (ML) and Artificial Intelligence (AI)— combining prediction, decisions, and automation. With experience in both academic research and industry, I enjoy bridging the gap between theoretical models and practical applications.  
+I'm an Industrial Engineering student at the University of Toronto, specializing in Operations Research (OR). I'm passionate about integrating optimization (OR), Machine Learning (ML), and Artificial Intelligence (AI)— combining prediction, decisions, and automation. With experience in both academic research and industry, I enjoy bridging the gap between theoretical models and real-world applications.    
 
 This space is a collection of my: 
 
@@ -25,7 +25,12 @@ This space is a collection of my:
 * 🌱 **Explorations —** a sandbox for testing out theory, tools, and new ideas
 
 #
-📂 Quick Links
+💬 Reach me: 
+* [LinkedIn](https://www.linkedin.com/in/lea-kwon-ba378a312/)
+* [Email](mailto:leakwon47@gmail.com)
+
+#
+📂 Quick Links: 
 
 * 🛠️ **Personal projects**
    - testing
@@ -33,4 +38,3 @@ This space is a collection of my:
   - OR 
   - ML 
   - AI 
-* 🌱 **Explorations**
