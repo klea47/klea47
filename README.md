@@ -35,6 +35,6 @@ This space is a collection of my:
 * 🛠️ **Personal projects**
    - testing
 * 💡 **Technical notes**
-  - ML
-  - OR 
+  - OR
+  - ML 
   - AI 
