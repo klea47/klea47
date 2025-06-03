@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 \ is new line
 -->
 
-I'm an Industrial Engineering student at the University of Toronto, specializing in Operations Research (OR). I'm passionate about integrating Machine Learning (ML), optimization (OR), and Artificial Intelligence (AI)— combining prediction, decisions, and automation. With experience in both academic research and industry, I enjoy bridging the gap between theoretical models and real-world applications.    
+I'm an Industrial Engineering student at the University of Toronto, specializing in Operations Research (OR). I'm passionate about integrating Machine Learning (ML), optimization (OR), and Artificial Intelligence (AI)— combining prediction, decisions, and automation. With experience in both academic research and industry, I enjoy bridging the gap between theoretical models and practical applications.    
 
 This space is a collection of my: 
 
-* 🛠️ **Personal projects —** solving real-world problems
+* 🛠️ **Personal projects —** tackling real-world problems
 * 💡 **Technical notes —** quick dives into base models, solvers, & techniques
 * 🌱 **Explorations —** a sandbox for testing out theory, tools, and new ideas
 
