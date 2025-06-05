@@ -35,6 +35,6 @@ This space is a collection of my:
 * 🛠️ **Personal projects**
    - testing
 * 💡 **Technical notes**
-  - OR
+  - [OR](https://github.com/klea47/OR)
   - ML 
   - AI 
