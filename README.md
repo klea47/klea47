@@ -21,7 +21,7 @@ I'm an Industrial Engineering student at the University of Toronto, specializing
 This space is a collection of my: 
 
 * 🛠️ **Personal projects —** tackling real-world problems
-* 💡 **Technical notes —** quick dives into base models, solvers, & techniques
+* 💡 **Technical notes —** quick dives into models, solvers, & techniques
 * 🌱 **Explorations —** a sandbox for testing out theory, tools, and new ideas
 
 #
