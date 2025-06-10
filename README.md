@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 \ is new line
 -->
 
-I'm an Industrial Engineering student at the University of Toronto, specializing in Operations Research (OR). I'm passionate about integrating Machine Learning (ML), optimization (OR), and Artificial Intelligence (AI)— combining prediction, decisions, and automation. With experience in both academic research and industry, I enjoy bridging the gap between theoretical models and practical applications.    
+I'm an Industrial Engineering student at the University of Toronto, specializing in Operations Research (OR). I'm passionate about integrating Machine Learning (ML), mathematical optimization (OR), and Artificial Intelligence (AI)— combining prediction, decisions, and automation. With experience in both academic research and industry, I enjoy bridging the gap between theoretical models and practical applications.    
 
 This space is a collection of my: 
 
